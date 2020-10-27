@@ -1,5 +1,5 @@
 <?php 
-$site = 'https://www.google.com';
+$site = 'https://www.facebook.com';
 header('Location:'.$site);
 
 ?>
